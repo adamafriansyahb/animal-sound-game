@@ -1,4 +1,4 @@
-# simon-game-modified
+# animal-sound-game
 
 A part of learning jQuery. 
 
