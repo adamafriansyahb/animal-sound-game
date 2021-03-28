@@ -9,4 +9,4 @@ Minor modifications include:
 - Adding animal picture to each button.
 - Using different sound effects (animal sounds). 
 
-Try this on https://adamafriansyahb.github.io/simon-game-modified/.
+Try this on https://adamafriansyahb.github.io/animal-sound-game/.
